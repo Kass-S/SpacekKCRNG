@@ -1,0 +1,30 @@
+body{
+    background-image: url(../assets/nika-benedictova-VrtwS-ayI5U-unsplash.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 100%;
+    margin: 0px;
+    color: white;
+}
+
+.container{
+    margin-top: 2em;
+    margin-left: 20em;
+    margin-right: 20em;
+    padding: 2em;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.btn{
+    margin-top: 2em;
+    border: none;
+    padding: .5em 1em;
+    border-radius: 5px;
+}
+
+.prev-list{
+    margin-top: 2em;
+    padding-left: 10px;
+    border: 3px solid white;
+}
